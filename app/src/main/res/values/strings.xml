@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TMS_An_15_Homework_Lesson_17</string>
+    <string name="splash">SplashActivity</string>
+    <string name="text_button">further</string>
+    <string name="on_boarding1">Onboarding1Activity</string>
+    <string name="on_boarding2">Onboarding2Activity</string>
+    <string name="on_boarding3">Onboarding3Activity</string>
+    <string name="on_boarding4">Onboarding4Activity</string>
+    <string name="registration">Registration</string>
+</resources>

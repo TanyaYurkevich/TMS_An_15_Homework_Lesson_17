@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="for_phone">#FFBB86FC</color>
+    <color name="foregraund_button">#FF6200EE</color>
+    <color name="foregraund_text">#D2E4E4</color>
+    <color name="text_color">#FF000000</color>
+
+</resources>
